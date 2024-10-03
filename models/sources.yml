@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: northwind_trading
+    database: northwind-trading-ae
+    schema: dl_northwind
+    tables:
+      - name: customer
+      
+        
